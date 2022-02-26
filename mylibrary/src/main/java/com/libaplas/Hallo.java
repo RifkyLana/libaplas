@@ -11,3 +11,4 @@ public class Hallo {
     public static void r(){
         System.out.println("Ini dari library Aplas");
 }
+}
