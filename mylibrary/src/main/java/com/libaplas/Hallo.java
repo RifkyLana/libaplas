@@ -7,7 +7,7 @@ public class Hallo {
     public static void s(Context c, String message){
         Toast.makeText(c, message, Toast.LENGTH_SHORT).show();
     }
-    
     public static void r(){
-        System.out.println("Ini dari library Aplas");
+        System.out.println("ini dari lib GITHUB");
     }
+}
